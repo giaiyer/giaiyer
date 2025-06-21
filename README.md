@@ -1,7 +1,9 @@
 <h1 align="center">Hi, I'm Gia Iyer</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00B2FF&center=true&vCenter=true&width=435&lines=AI+Enthusiast+%7C+ML+Intern+%7C+Creative+Builder;Loves+code+%2B+data+%2B+design;Welcome+to+my+GitHub+profile!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00B2FF&center=true&vCenter=true&width=600&lines=Welcome+to+my+GitHub+profile!;Passionate+about+coding,+data,+and+design" alt="Typing SVG" />
+
+
 </p>
 
 ---
@@ -9,12 +11,14 @@
 ### GitHub Stats
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=giaiyer&show_icons=true&theme=radical" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=giaiyer&theme=radical" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=giaiyer&show_icons=true&theme=github_dark&hide_border=true" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com?user=giaiyer&theme=github-dark-blue&hide_border=true" />
 </p>
+
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=giaiyer&layout=compact&theme=radical" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=giaiyer&layout=compact&theme=github_dark&hide_border=true" />
 </p>
+
 
 ---
 
@@ -55,8 +59,6 @@
 ### Let's Connect
 
 -  [LinkedIn](https://linkedin.com/in/giaiyer)  
-- [Email](mailto:togiaiyer@gmail.com)  
-- [Portfolio](https://github.com/giaiyer)
 
 ---
 
