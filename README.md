@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Gia Iyer</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00B2FF&center=true&vCenter=true&width=600&lines=Welcome+to+my+GitHub+profile!;Passionate+about+coding,+data,+and+design" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00B2FF&center=true&vCenter=true&width=600&lines=Welcome+to+my+GitHub+profile!;Passionate+about+coding,+data+and+design" alt="Typing SVG" />
 
 
 </p>
