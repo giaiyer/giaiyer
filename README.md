@@ -1,9 +1,8 @@
-<h1 align="center">Hi, I'm Gia </h1>
 
 <p align="center">
  <!-- <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=0&loop=true&color=00FFFF&center=true&vCenter=true&width=600&lines=Welcome+to+my+GitHub+profile!;Passionate+about+coding,+data+and+design" alt="Typing SVG" /> -->
  <p align="center">
-  <img src="assets/typing.svg" alt="Typing SVG" />
+  <img src="assets/typo.svg" alt="Typing SVG" />
 </p>
 
 
